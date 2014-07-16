@@ -1,0 +1,14 @@
+{
+  "name": "angular-SPA",
+  "version": "0.0.1",
+  "description": "A Single Page Applicatioion build with AngularJs",
+  "author": "Weslley Neri",
+  "engines": {
+    "node": "0.10.24",
+    "npm": "1.2.30"
+  },
+  "dependencies": {
+    "body-parser": "^1.4.3",
+    "express": "^4.6.1"
+  }
+}
